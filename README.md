@@ -1,0 +1,2 @@
+# smchecker
+stupid mocha checker
